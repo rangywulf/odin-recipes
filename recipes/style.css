@@ -1,0 +1,16 @@
+/* lasagna */
+.top {
+    text-align: center;
+}
+
+.ingredients {
+    background-color: lightpink;
+    border-radius: 10px;
+}
+
+.subheader {
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
