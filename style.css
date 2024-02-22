@@ -23,3 +23,8 @@ button {
     background: black;
     padding: 16px;
 }
+
+button:hover {
+    color:white;
+    background:blueviolet;
+}
